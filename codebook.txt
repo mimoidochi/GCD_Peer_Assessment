@@ -94,3 +94,7 @@ Measurement	31
 			fBodyBodyGyroJerkMag.mean    
 			fBodyBodyGyroJerkMag.std     
 			fBodyBodyGyroJerkMag.meanFreq
+			
+Average		4
+	Average value of given measurement for given Subject and Activity, numeric
+			-1 .. 0.97
